@@ -8,7 +8,15 @@
 ![alt text](<screenshots/1/Знімок екрана з 2024-05-06 23-45-09.png>)
 
 ### 2. Create in your user account Programmatic credentials
+![alt text](<screenshots/2/Знімок екрана з 2024-05-07 01-36-13.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-07 01-36-32.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-07 01-36-58.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-07 01-37-34.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-07 01-38-14.png>)
+
 ### 3. Add creds on your PC
+![alt text](<screenshots/3/Знімок екрана з 2024-05-07 01-43-19.png>)
+
 ### 4. Switch to MFA session
 ### 5. Make sure that you can perform command: aws s3 ls and see the list of S3 buckets
 
