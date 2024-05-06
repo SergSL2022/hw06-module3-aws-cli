@@ -3,6 +3,10 @@
 ## AWS cli
 
 ### 1. Install aws cli on your PC
+![alt text](<screenshots/1/Знімок екрана з 2024-05-06 23-41-47.png>)
+![alt text](<screenshots/1/Знімок екрана з 2024-05-06 23-42-00.png>)
+![alt text](<screenshots/1/Знімок екрана з 2024-05-06 23-45-09.png>)
+
 ### 2. Create in your user account Programmatic credentials
 ### 3. Add creds on your PC
 ### 4. Switch to MFA session
