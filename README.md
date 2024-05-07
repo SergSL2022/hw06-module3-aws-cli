@@ -1,6 +1,6 @@
 # hw06-module3-aws-cli
 
-## AWS cli
+# AWS cli
 
 ### 1. Install aws cli on your PC
 ![alt text](<screenshots/1/Знімок екрана з 2024-05-06 23-41-47.png>)
@@ -25,7 +25,19 @@
 ### 5. Make sure that you can perform command: aws s3 ls and see the list of S3 buckets
 ![alt text](<screenshots/5/Знімок екрана з 2024-05-07 03-52-03.png>)
 
-## Advanced
+# Advanced
 
 ### 1. create two ec2 instance: one with any tags, second - with tag "Owner=Your Name"
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-07 04-23-42.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-07 04-24-10.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-07 04-24-21.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-07 04-24-43.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-07 04-24-56.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-07 04-31-59.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-07 04-32-25.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-07 04-32-37.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-07 04-32-56.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-07 04-33-08.png>)
+
+
 ### 2. using aws cli write bash script, which will get the list of all running ec2, iterate over it. If ec2 has tag "Owner=Your Name" then terminate it
