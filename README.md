@@ -18,8 +18,12 @@
 ![alt text](<screenshots/3/Знімок екрана з 2024-05-07 01-43-19.png>)
 
 ### 4. Switch to MFA session
-### 5. Make sure that you can perform command: aws s3 ls and see the list of S3 buckets
+![alt text](<screenshots/4/Знімок екрана з 2024-05-07 03-46-04.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-05-07 03-46-15.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-05-07 03-50-17.png>)
 
+### 5. Make sure that you can perform command: aws s3 ls and see the list of S3 buckets
+![alt text](<screenshots/5/Знімок екрана з 2024-05-07 03-52-03.png>)
 
 ## Advanced
 
