@@ -51,7 +51,7 @@
 ![alt text](<screenshots/advanced2/Знімок екрана з 2024-05-07 04-49-31.png>)
 
 
-#Cleanup
+# Cleanup
 ![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-07 04-58-02.png>)
 ![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-07 04-58-12.png>)
 ![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-07 04-58-22.png>)
