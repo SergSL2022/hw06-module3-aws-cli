@@ -41,3 +41,11 @@
 
 
 ### 2. using aws cli write bash script, which will get the list of all running ec2, iterate over it. If ec2 has tag "Owner=Your Name" then terminate it
+
+![Bash script - terminate instances with Tag Owner=slipchuk](terminate_tag_slipchuk_ec2.sh)
+
+![alt text](<screenshots/advanced2/Знімок екрана з 2024-05-07 04-45-30.png>)
+![alt text](<screenshots/advanced2/Знімок екрана з 2024-05-07 04-47-18.png>)
+![alt text](<screenshots/advanced2/Знімок екрана з 2024-05-07 04-48-01.png>)
+![alt text](<screenshots/advanced2/Знімок екрана з 2024-05-07 04-48-48.png>)
+![alt text](<screenshots/advanced2/Знімок екрана з 2024-05-07 04-49-31.png>)
